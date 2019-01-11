@@ -18,7 +18,7 @@
         color: #CE4D42;
     }
     
-    form {
+    .insert {
         height: 100px;
         width: 450px;
         margin: 40px auto;
@@ -37,4 +37,13 @@
         background-color: #CE4D42;
         color: #DBCCAE;
         border: 5px solid #275D66;
+    }
+    
+    .button1 {
+        background-color: #275D66;
+        color: #DBCCAE;
+        width: 30%;
+        padding: 1px;
+        font-size: 20px;
+        margin: 20px;
     }
